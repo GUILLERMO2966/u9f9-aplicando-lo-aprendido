@@ -1,6 +1,6 @@
 input.onButtonPressed(Button.A, function () {
     Tasa_Interaccion += 0.5
-    basic.showString("Tasa de interacción")
+    basic.showString("Tasa de Interacción")
     basic.showString("" + (Tasa_Interaccion))
     basic.pause(2000)
 })
